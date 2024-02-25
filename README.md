@@ -2,7 +2,7 @@
 disable_firewall_windows
 
 
-Run one of the batch files to disable firewall, run powershell as admin is the default, windows8+, for older OS use the another one.
+Run run_as_admin.bat to elevate th script and run_pw_as_admin to disable firewall
 
 
 
