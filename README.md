@@ -2,7 +2,7 @@
 disable_firewall_windows
 
 
-Run run_as_admin.bat to elevate th script and run_pw_as_admin to disable firewall
+Run run_as_admin.bat as an admin to elevate the script and run_pw_as_admin as an admin to disable firewall.
 
 
 
